@@ -1,0 +1,27 @@
+{
+  "name": "starwars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moshin4501/First-Server-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moshin4501/First-Server-/issues"
+  },
+  "homepage": "https://github.com/Moshin4501/First-Server-#readme",
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "parser": "^0.1.4",
+    "path": "^0.12.7"
+  }
+}
